@@ -1,4 +1,4 @@
-# understanding-vpn
+
 # 🔐 VPN Privacy & Security Check
 
 ## Objective
